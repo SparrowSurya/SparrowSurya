@@ -4,7 +4,7 @@
 
 + 🌟 I’m currently working on - Everything
 
-+ ✨ I’m currently learning - Nothing
++ ✨ I’m currently learning - Something
 <br/>
 
 ---
