@@ -33,6 +33,9 @@ Coming Soon
 
 ![SparrowSurya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SparrowSurya&show_icons=true&theme=tokyonight)
 
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SparrowSurya&layout=compact)](https://github.com/SparrowSurya/github-readme-stats)
 
 <!--
 **SparrowSurya/SparrowSurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
