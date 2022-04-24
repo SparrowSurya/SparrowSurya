@@ -2,32 +2,20 @@
 
 ---
 
-+ 🌟 I’m currently working on - 
- <ul>
-  <li> Chess </li>
- </ul>
++ 🌟 I’m currently working on - Chess game in python
 
-+ ✨ I’m currently learning - 
- <ul>
-  <li> computer networking </li>
-  <li> DSA </li>
-  <li> algorithms </li>
- </ul>
++ ✨ I’m currently learning - DSA, computer networking, digital electronics, Electrical science
 <br/>
 
----
-
----
-
+<!--
 ### Connect with me:
 Coming Soon
 <br/>
+--->
 
 ---
 
----
-
-### Languages And Tools: 
+### Languages: 
 
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" />
 
