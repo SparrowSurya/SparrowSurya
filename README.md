@@ -2,9 +2,17 @@
 
 ---
 
-+ 🌟 I’m currently working on - Everything
++ 🌟 I’m currently working on - 
+ <ul>
+  <li> Chess </li>
+ </ul>
 
-+ ✨ I’m currently learning - Something
++ ✨ I’m currently learning - 
+ <ul>
+  <li> computer networking </li>
+  <li> DSA </li>
+  <li> algorithms </li>
+ </ul>
 <br/>
 
 ---
