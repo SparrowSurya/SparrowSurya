@@ -2,9 +2,10 @@
 
 ---
 
-+ 🌟 I’m currently working on - Chess game in python
++ 🌟 I’m currently working on - Chess game project
 
-+ ✨ I’m currently learning - DSA, computer networking, digital electronics, Electrical science
++ ✨ I’m currently learning - DSA, Digital Electronics, Electrical science
+
 <br/>
 
 <!--
@@ -17,11 +18,12 @@ Coming Soon
 
 ### Languages: 
 
+<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" />
+
+
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" />
 
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
-
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" />
 
 <br/>
 <br/>
