@@ -2,9 +2,8 @@
 
 ---
 
-+ 🌟 I’m currently working on - Chess game project
-
-+ ✨ I’m currently learning - DSA, Digital Electronics, Electrical science
++ 🌟 I’m currently working on - My Skills
++ ✨ I’m currently learning - DSA, DBMS, C-language
 
 <br/>
 
