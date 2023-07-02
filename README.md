@@ -9,7 +9,7 @@
 
 ---
 
-### 🛠️ My Toolset
+### 🛠️ My Toolkit
 
 ### Languages
 &emsp;
@@ -17,8 +17,8 @@
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=Cplusplus)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 <!-- ![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash) -->
 <!-- ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP) -->
 
@@ -33,7 +33,7 @@
 ![Tkinter](https://img.shields.io/badge/-Tkinter-000?&logo=Tkinter)
 <!-- ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI) -->
 
-### Misc tools:
+### Other:
 &emsp;
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
