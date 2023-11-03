@@ -5,8 +5,8 @@
 ---
 
 ### 🚀 Status
-+ I’m currently working on - Blogging Web Application ([repo](https://github.com/SparrowSurya/myblogsite))
-+ I’m currently learning - Django & git flow 
++ I’m currently working on - Game AI project
++ I’m currently learning - Django & React
 
 ---
 
