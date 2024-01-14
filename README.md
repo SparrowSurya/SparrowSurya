@@ -1,12 +1,20 @@
 <h1 align="center">Hi 👋, I am SparrowSurya!</h1>
 
-<p align="center">My name is Suryakant. I am a Computer Science Engg. student at UIET, Hoshiarpur. </p>
+<p align="center">
+My name is Suryakant.
+I am a Computer Science Engg. student.
+I make projects using python & django.
+</p>
+
+<blockquote>Making games are fun way to learn.</blockquote>
 
 ---
 
 ### 🚀 Status
-+ I’m currently working on - calc
-+ I’m currently learning - django
++ I’m currently working on project - [blog_site](https://github.com/SparrowSurya/blog_site)
++ I’m currently learning - django & rust.
++ For some free time brain storming I dig into assembly.
++ Happy to work on collaborative project using python or django or tkinter.
 
 ---
 
