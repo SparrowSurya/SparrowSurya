@@ -17,6 +17,7 @@ I mostly code in python.
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&color=05122A)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&color=05122A)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=Cplusplus&color=05122A)
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust&color=05122a)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&color=05122A)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&color=05122A)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=blue&color=05122A)
