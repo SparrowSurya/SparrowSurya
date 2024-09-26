@@ -21,6 +21,7 @@ I mostly code in python.
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&color=05122A)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=blue&color=05122A)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash&color=05122A)
+![Htmx](https://img.shields.io/badge/-Htmx-000?&logo=Htmx&color=05122A)
 
 ### Databases
 &emsp;
